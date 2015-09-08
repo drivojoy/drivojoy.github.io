@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               engineering.drivojoy.com
+title:               drivojoy.com
 tagline:             Everyone's private mechanic
 url:                 http://drivojoy.com
 paginate:            1
