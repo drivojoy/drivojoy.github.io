@@ -5,8 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               drivojoy.com
-tagline:             Everyone's private mechanic
+title:               drivojoy.com engineering
+description:         drivjoy.com engineering blog
+tagline:             drivjoy.com engineering blog
 url:                 http://drivojoy.com
 paginate:            1
 baseurl:             ""
